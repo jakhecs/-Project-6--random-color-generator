@@ -1,0 +1,19 @@
+{
+  "name": "project-6-random-color-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./main.scss ./style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakhecs/-Project-6--random-color-generator.git"
+  },
+  "author": "cj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakhecs/-Project-6--random-color-generator/issues"
+  },
+  "homepage": "https://github.com/jakhecs/-Project-6--random-color-generator#readme"
+}
